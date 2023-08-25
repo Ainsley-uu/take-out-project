@@ -6,7 +6,7 @@ This project is a software product customized for catering companies.
 
 ## Functional Architecture
 
-* Management Terminal
+**Management Terminal**
 + Employee Management
 + Category Management
 + Dishes Management
@@ -16,7 +16,7 @@ This project is a software product customized for catering companies.
 + Statistics
 + Order Statistics
 
-* User Terminal
+**User Terminal**
 + WeChat Login
 + Product Browsing
 + Shopping Cart 
